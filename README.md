@@ -1,4 +1,4 @@
-## Malicious-activity , **[Malware](https://github.com/sherazi1214/Malware)** , **[Brute Force ](https://github.com/sherazi1214/Brute-Force-)** , **[Digital Infrastructure Attacks](https://github.com/sherazi1214/Digital-Infrastructure-Attacks)** , **[Application Attacks](https://github.com/sherazi1214/Application-Attacks)** , **[Wireless Attacks ](https://github.com/sherazi1214/Wireless-Attacks-)**
+## Malicious-activity / **[Malware](https://github.com/sherazi1214/Malware)** / **[Brute Force ](https://github.com/sherazi1214/Brute-Force-)** / **[Digital Infrastructure Attacks](https://github.com/sherazi1214/Digital-Infrastructure-Attacks)** / **[Application Attacks](https://github.com/sherazi1214/Application-Attacks)** / **[Wireless Attacks ](https://github.com/sherazi1214/Wireless-Attacks-)**
 
 ## Indicators of Attack (IoA)
 ### Definition:
